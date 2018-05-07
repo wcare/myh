@@ -13,7 +13,7 @@
     	width:1300px;
 		margin: auto;
 		margin: 0;
-		background: url(bd_bj.jpg)
+		background: url(imges/bd_bj.jpg)
 		
 	}
 	div{ display:block; 
